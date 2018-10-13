@@ -21,7 +21,7 @@ class Asset(models.Model):
                         ('re','Real Estate'), ('cm', 'Commodity'),
                         ('pt','Patents'), ('fa','Furniture and Appliances'))
     asset_type = models.CharField(
-        max_length = 2,
+        max_length = 3,
         choices = TYPES_OF_ASSET,
         blank=True
     )
