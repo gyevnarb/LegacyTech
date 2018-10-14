@@ -1,6 +1,8 @@
 ## FASIGHT
 Digital will binding made easy.
 
+![screen shot 2018-10-14 at 12 37 48 am](https://user-images.githubusercontent.com/22993048/46912608-b272e980-cfac-11e8-9567-f85358ee589a.png)
+
 ## Inspiration
 i(sayyid) got the inspiration from reading a book about financial planning and i realised that as i was reading about the chapter of legacy financial planning, that many people have limited infomation regarding on how to build a will on help them manage their finances even in their afterlife.
 
